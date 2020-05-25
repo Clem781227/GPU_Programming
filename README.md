@@ -4,3 +4,4 @@ Link to our neural network train on torch cuda on google colab : https://colab.r
 
 data : contains our simulations in csv format.
 
+Link to our presentation : https://fr.overleaf.com/read/ntkwfqcbjcfb
